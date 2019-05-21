@@ -1,0 +1,23 @@
+Cara Instalasi :
+
+Setting up Codeigniter : 
+1.Database developer
+2.Index.php
+3.config --> base_url
+
+
+Setting up Chatting :
+1. Integration.php 
+2. Config.php
+3. Ganti Password Admin
+4. Setup Directory Password
+
+
+Setting up CSS :
+1. assetsPath --> Metronics.js
+
+
+Must Updated Vulnerability :
+1. Downgrade mobilewebapp to Jquery 1.7.4 :)
+2. Set data foto to Select Data not to Sessions
+3. User Locked --> session chat must be destroy : Success
